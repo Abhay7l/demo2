@@ -1,0 +1,758 @@
+.desktop-1-child,
+.desktop-1-item {
+  position: absolute;
+  left: 0;
+  background-color: var(--color-gray-100);
+  width: 100vw;
+}
+.desktop-1-child {
+  top: 141.31rem;
+  border-radius: 9px;
+  height: 42.06rem;
+}
+.desktop-1-item {
+  top: 0;
+  height: 5.25rem;
+}
+.desktop-1-inner,
+.rectangle-div {
+  position: absolute;
+  top: 5.25rem;
+  left: -0.56rem;
+  background-color: var(--color-lemonchiffon);
+  width: 100vw;
+  height: 96.5rem;
+}
+.rectangle-div {
+  top: 48.13rem;
+  left: 57.69rem;
+  width: 21.88rem;
+  height: 31.56rem;
+}
+.desktop-1-child1 {
+  top: 48.25rem;
+  left: 57.13rem;
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 21.75rem;
+  height: 2.69rem;
+}
+.desktop-1-child1,
+.desktop-1-child2,
+.desktop-1-child3 {
+  position: absolute;
+  background-color: var(--color-lemonchiffon);
+}
+.desktop-1-child2 {
+  top: 50.94rem;
+  left: 57.13rem;
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 21.75rem;
+  height: 2.69rem;
+}
+.desktop-1-child3 {
+  top: 53.63rem;
+}
+.desktop-1-child3,
+.desktop-1-child4,
+.desktop-1-child5 {
+  left: 57.13rem;
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 21.75rem;
+  height: 2.69rem;
+}
+.desktop-1-child4 {
+  position: absolute;
+  top: 56.31rem;
+  background-color: var(--color-lemonchiffon);
+}
+.desktop-1-child5 {
+  top: 59rem;
+}
+.desktop-1-child5,
+.desktop-1-child6,
+.desktop-1-child7 {
+  position: absolute;
+  background-color: var(--color-lemonchiffon);
+}
+.desktop-1-child6 {
+  top: 61.69rem;
+  left: 57.13rem;
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 21.75rem;
+  height: 2.69rem;
+}
+.desktop-1-child7 {
+  top: 101.38rem;
+  left: 0;
+  width: 100vw;
+  height: 40.38rem;
+}
+.more-emi-calculators {
+  position: absolute;
+  top: 49.06rem;
+  left: 58.81rem;
+  font-weight: 600;
+}
+.line-div {
+  position: absolute;
+  top: 5.22rem;
+  left: -0.03rem;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 100vw;
+  height: 0.06rem;
+}
+.line-icon {
+  position: absolute;
+  top: 101.69rem;
+  left: 0;
+  width: 100vw;
+  height: 0;
+}
+.desktop-1-child8,
+.desktop-1-child9 {
+  position: absolute;
+  border-radius: var(--br-3xs);
+}
+.desktop-1-child8 {
+  top: 1.19rem;
+  left: 33.31rem;
+  background-color: #d9d9d9;
+  width: 27.5rem;
+  height: 2.69rem;
+}
+.desktop-1-child9 {
+  top: 1.13rem;
+  left: 77.25rem;
+  background-color: var(--color-royalblue);
+  width: 10.94rem;
+  height: 2.81rem;
+}
+.home-calculator,
+.login-register {
+  position: absolute;
+  top: 2rem;
+  left: 78.56rem;
+  font-size: var(--font-size-mini);
+  font-weight: 600;
+  color: var(--color-white);
+}
+.home-calculator {
+  top: 6.38rem;
+  left: 10rem;
+  font-size: var(--font-size-xs);
+  color: var(--color-dimgray);
+}
+.emi-calculator {
+  position: absolute;
+  top: 8.44rem;
+  left: 10rem;
+  font-size: 1.75rem;
+}
+.desktop-1-child10,
+.desktop-1-child11,
+.desktop-1-child12 {
+  position: absolute;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-lemonchiffon);
+  box-sizing: border-box;
+}
+.desktop-1-child10 {
+  top: 12.63rem;
+  left: 10rem;
+  border: 1px solid var(--color-dimgray);
+  width: 46.25rem;
+  height: 42.06rem;
+}
+.desktop-1-child11,
+.desktop-1-child12 {
+  top: 12.5rem;
+  left: 57.13rem;
+  border: 1px solid #b0b2ba;
+  width: 21.88rem;
+  height: 17.19rem;
+}
+.desktop-1-child12 {
+  top: 30.94rem;
+  left: 57.5rem;
+  border: 1px solid transparent;
+  width: 21.94rem;
+  height: 13.31rem;
+}
+.defaultsidebarb40891fd-1-icon {
+  position: absolute;
+  top: 13.81rem;
+  left: 62.94rem;
+  width: 10.94rem;
+  height: 7.69rem;
+  overflow: hidden;
+}
+.factors-affecting-your,
+.the-formula-to,
+.types-of-emi {
+  position: absolute;
+  top: 85.63rem;
+  left: 11.13rem;
+  font-size: var(--font-size-2xl);
+  font-weight: 600;
+}
+.factors-affecting-your,
+.types-of-emi {
+  top: 104.5rem;
+}
+.factors-affecting-your {
+  top: 57.75rem;
+  left: 11.06rem;
+}
+.blank-line {
+  margin: 0;
+}
+.term-of-the {
+  font-weight: 600;
+}
+.term-of-the-loan1 {
+  margin-bottom: false;
+}
+.term-of-the-loan {
+  margin: 0;
+  padding-left: var(--padding-xl);
+  color: var(--color-gray-100);
+}
+.there-are-certain-container {
+  position: absolute;
+  top: 60.06rem;
+  left: 11.13rem;
+  font-size: var(--font-inherit);
+  display: inline-block;
+  width: 41.94rem;
+  height: 18.13rem;
+  color: var(--color-dimgray);
+}
+.where {
+  color: var(--color-dimgray);
+}
+.emi-p-x-r-x-1r-n-1 {
+  margin: 0;
+  color: var(--color-gray-100);
+}
+.there-is-a-container {
+  position: absolute;
+  top: 88.69rem;
+  left: 11.13rem;
+  font-size: var(--font-inherit);
+  font-family: var(--font-inherit);
+  display: inline-block;
+  width: 41.94rem;
+  height: 12.38rem;
+  color: var(--color-dimgray);
+}
+.blank-line14 {
+  margin: 0;
+  color: var(--color-black);
+}
+.home-loan-emi {
+  font-weight: 500;
+}
+.blank-line18,
+.home-loan-emi {
+  margin: 0;
+  color: var(--color-royalblue);
+}
+.personal-loan-emi {
+  font-weight: 500;
+}
+.there-are-numerous-container {
+  position: absolute;
+  top: 107.88rem;
+  left: 11.13rem;
+  font-size: var(--font-size-mini);
+  display: inline-block;
+  width: 41.94rem;
+  height: 24.63rem;
+  color: var(--color-dimgray);
+}
+.desktop-1-child13 {
+  position: absolute;
+  top: 15.5rem;
+  left: 12.25rem;
+  background-color: var(--color-lemonchiffon);
+  width: 40.81rem;
+  height: 37.13rem;
+}
+.monthly-emi,
+.principal-amount,
+.total-amount,
+.total-interest {
+  position: absolute;
+  top: 38.13rem;
+  left: 13.63rem;
+  font-size: var(--font-size-mid);
+  font-weight: 500;
+}
+.principal-amount,
+.total-amount,
+.total-interest {
+  top: 41.88rem;
+}
+.total-amount,
+.total-interest {
+  top: 45.5rem;
+}
+.total-amount {
+  top: 49.19rem;
+}
+.desktop-1-child14 {
+  position: absolute;
+  top: 19.44rem;
+  left: 26.56rem;
+  border-radius: var(--br-6xs);
+  background-color: var(--color-lemonchiffon);
+  border: 1.5px solid var(--color-black);
+  box-sizing: border-box;
+  width: 8.13rem;
+  height: 0.94rem;
+}
+.desktop-1-child15,
+.desktop-1-child16,
+.desktop-1-child17,
+.desktop-1-child18,
+.desktop-1-child19,
+.desktop-1-child20 {
+  position: absolute;
+  top: 38.44rem;
+  left: 25.19rem;
+  background-color: var(--color-lemonchiffon);
+  width: 7.31rem;
+  height: 0.75rem;
+}
+.desktop-1-child16,
+.desktop-1-child17,
+.desktop-1-child18,
+.desktop-1-child19,
+.desktop-1-child20 {
+  top: 42.19rem;
+}
+.desktop-1-child17,
+.desktop-1-child18,
+.desktop-1-child19,
+.desktop-1-child20 {
+  top: 46.06rem;
+  left: 25.13rem;
+}
+.desktop-1-child18,
+.desktop-1-child19,
+.desktop-1-child20 {
+  top: 49.75rem;
+}
+.desktop-1-child19,
+.desktop-1-child20 {
+  top: 24.5rem;
+  left: 26.56rem;
+  border-radius: var(--br-6xs);
+  border: 1.5px solid var(--color-black);
+  box-sizing: border-box;
+  width: 8.13rem;
+  height: 0.94rem;
+}
+.desktop-1-child20 {
+  top: 30rem;
+}
+.loan-amount {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+}
+.loan-amount-wrapper {
+  position: absolute;
+  top: 19.44rem;
+  left: 13.5rem;
+  width: 6.25rem;
+  height: 1.19rem;
+  font-size: var(--font-size-base);
+}
+.loan-tenure,
+.rate-of-interest3 {
+  position: absolute;
+  top: 24.5rem;
+  left: 13.63rem;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+}
+.loan-tenure {
+  top: 29.81rem;
+}
+.desktop-1-child21,
+.desktop-1-child22,
+.desktop-1-child23,
+.desktop-1-child24,
+.desktop-1-child25 {
+  position: absolute;
+  top: 32.06rem;
+  left: 57.13rem;
+  background-color: var(--color-lemonchiffon);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 21.75rem;
+  height: 2.69rem;
+}
+.desktop-1-child22,
+.desktop-1-child23,
+.desktop-1-child24,
+.desktop-1-child25 {
+  top: 34.69rem;
+}
+.desktop-1-child23,
+.desktop-1-child24,
+.desktop-1-child25 {
+  top: 37.38rem;
+}
+.desktop-1-child24,
+.desktop-1-child25 {
+  top: 40.06rem;
+}
+.desktop-1-child25 {
+  top: 42.75rem;
+}
+.invest-the-way,
+.large-cap-funds {
+  position: absolute;
+  top: 51.69rem;
+  left: 58.81rem;
+}
+.invest-the-way {
+  top: 22.38rem;
+  left: 62.63rem;
+  font-size: var(--font-size-base);
+  font-weight: 600;
+}
+.small-cap-funds {
+  position: absolute;
+  top: 57.06rem;
+  left: 58.75rem;
+}
+.flexi-cap-funds,
+.multi-cap-funds {
+  position: absolute;
+  top: 59.63rem;
+  left: 58.75rem;
+}
+.flexi-cap-funds {
+  top: 62.19rem;
+}
+.emi-calculator1,
+.popular-categories {
+  position: absolute;
+  top: 32.81rem;
+  left: 58.75rem;
+  font-weight: 600;
+}
+.emi-calculator1 {
+  top: 43.63rem;
+  font-weight: 500;
+  color: var(--color-gray-100);
+}
+.mid-cap-funds {
+  position: absolute;
+  top: 54.44rem;
+  left: 58.81rem;
+}
+.bank-loans-at,
+.car-loan,
+.house-loan {
+  position: absolute;
+  top: 40.88rem;
+  left: 58.75rem;
+  font-weight: 500;
+  color: var(--color-gray-100);
+}
+.bank-loans-at,
+.house-loan {
+  top: 38.31rem;
+}
+.bank-loans-at {
+  top: 35.44rem;
+  left: 58.69rem;
+}
+.join-millions-of,
+.what-are-you {
+  position: absolute;
+  font-size: var(--font-size-xs);
+}
+.join-millions-of {
+  top: 24.31rem;
+  left: 60rem;
+  font-weight: 600;
+  color: var(--color-dimgray);
+}
+.what-are-you {
+  top: 2.13rem;
+  left: 35.44rem;
+}
+.magnifying-glass-solid-1-icon {
+  position: absolute;
+  top: 2.06rem;
+  left: 33.75rem;
+  width: 1rem;
+  height: 0.94rem;
+  overflow: hidden;
+}
+.desktop-1-child26 {
+  position: absolute;
+  top: 26.06rem;
+  left: 60.13rem;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-royalblue);
+  width: 17.13rem;
+  height: 2.38rem;
+}
+.explore-products {
+  position: absolute;
+  top: 26.81rem;
+  left: 64.69rem;
+  font-size: var(--font-size-xs);
+  font-weight: 600;
+  color: var(--color-white);
+}
+.logo-no-background-1-icon {
+  position: absolute;
+  top: 1.19rem;
+  left: 1.56rem;
+  width: 10.69rem;
+  height: 2.81rem;
+  object-fit: cover;
+}
+.desktop-1-child27 {
+  position: absolute;
+  top: 144.88rem;
+  left: 10rem;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  width: 23.25rem;
+  height: 3.5rem;
+}
+.by-india-for {
+  position: absolute;
+  top: 145.94rem;
+  left: 15.69rem;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  font-family: var(--font-arial);
+  width: 13rem;
+  height: 1.94rem;
+}
+.image-1-icon {
+  position: absolute;
+  top: 145.88rem;
+  left: 12rem;
+  width: 2.58rem;
+  height: 1.5rem;
+  object-fit: cover;
+}
+.about,
+.about-us,
+.reviews {
+  position: absolute;
+  top: 152.38rem;
+  left: 10.81rem;
+  font-size: var(--font-size-3xl);
+  display: inline-block;
+  font-family: var(--font-arial);
+  color: var(--color-lavender);
+  width: 5.06rem;
+  height: 1.75rem;
+  mix-blend-mode: normal;
+}
+.about-us,
+.reviews {
+  top: 156.25rem;
+  font-size: var(--font-size-lg);
+}
+.reviews {
+  left: 27.38rem;
+}
+.invance-business,
+.products {
+  left: 43.94rem;
+  font-size: var(--font-size-lg);
+}
+.invance-business {
+  position: absolute;
+  top: 156.25rem;
+  display: inline-block;
+  font-family: var(--font-arial);
+  color: var(--color-lavender);
+  width: 10.94rem;
+  height: 1.06rem;
+  mix-blend-mode: normal;
+}
+.products {
+  top: 159.5rem;
+  width: 5.06rem;
+}
+.business-blogs,
+.help-centre,
+.log-in,
+.products {
+  position: absolute;
+  display: inline-block;
+  font-family: var(--font-arial);
+  color: var(--color-lavender);
+  height: 1.75rem;
+  mix-blend-mode: normal;
+}
+.business-blogs {
+  top: 162.75rem;
+  left: 43.94rem;
+  font-size: var(--font-size-lg);
+  width: 9.56rem;
+}
+.help-centre,
+.log-in {
+  left: 27.38rem;
+}
+.help-centre {
+  top: 159.5rem;
+  font-size: var(--font-size-lg);
+  width: 7.69rem;
+}
+.log-in {
+  top: 162.75rem;
+}
+.contact,
+.log-in,
+.sign-up {
+  font-size: var(--font-size-lg);
+  width: 5.06rem;
+}
+.sign-up {
+  position: absolute;
+  top: 166.19rem;
+  left: 27.38rem;
+  display: inline-block;
+  font-family: var(--font-arial);
+  color: var(--color-lavender);
+  height: 1.75rem;
+  mix-blend-mode: normal;
+}
+.contact {
+  top: 159.5rem;
+  left: 10.75rem;
+}
+.blog,
+.business,
+.community,
+.contact,
+.how-invance-works,
+.invance-inc-all,
+.socials {
+  position: absolute;
+  display: inline-block;
+  font-family: var(--font-arial);
+  color: var(--color-lavender);
+  height: 1.75rem;
+  mix-blend-mode: normal;
+}
+.how-invance-works {
+  top: 162.75rem;
+  left: 10.75rem;
+  font-size: var(--font-size-lg);
+  width: 11.69rem;
+}
+.blog,
+.business,
+.community,
+.invance-inc-all,
+.socials {
+  top: 181.63rem;
+  left: 10.31rem;
+  width: 27.25rem;
+}
+.blog,
+.business,
+.community,
+.socials {
+  top: 166rem;
+  left: 10.81rem;
+  font-size: var(--font-size-lg);
+  width: 5.06rem;
+}
+.business,
+.community,
+.socials {
+  top: 152.38rem;
+  left: 27.38rem;
+  font-size: var(--font-size-3xl);
+  width: 7.69rem;
+}
+.business,
+.socials {
+  left: 43.94rem;
+  width: 9.06rem;
+}
+.socials {
+  left: 61.88rem;
+}
+.facebook-1-icon,
+.instagram-1-icon,
+.linkedin-1-icon,
+.x-twitter-1-icon {
+  position: absolute;
+  top: 156.06rem;
+  left: 62rem;
+  width: 1.25rem;
+  height: 1.25rem;
+  overflow: hidden;
+}
+.facebook-1-icon,
+.linkedin-1-icon,
+.x-twitter-1-icon {
+  top: 159.5rem;
+}
+.linkedin-1-icon,
+.x-twitter-1-icon {
+  top: 162.81rem;
+}
+.linkedin-1-icon {
+  top: 166.38rem;
+}
+.thank-you-for {
+  margin-block-start: 0;
+  margin-block-end: 5px;
+}
+.thank-you-for-container {
+  position: absolute;
+  top: 171.94rem;
+  left: 10.31rem;
+  font-size: var(--font-size-lg);
+  display: inline-block;
+  font-family: var(--font-arial);
+  color: var(--color-white);
+  width: 32.88rem;
+  height: 3.06rem;
+}
+.desktop-1,
+.desktop-11 {
+  height: 183.38rem;
+  overflow: hidden;
+}
+.desktop-11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 100vw;
+}
+.desktop-1 {
+  position: relative;
+  background-color: var(--color-lemonchiffon);
+  width: 100vw;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

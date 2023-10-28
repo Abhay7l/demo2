@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-arial: Arial;
+  --font-inter: Inter;
+  --font-inherit: inherit;
+  --font-arimo: Arimo;
+
+  /* font sizes */
+  --font-size-lg: 1.13rem;
+  --font-size-3xl: 1.38rem;
+  --font-size-sm: 0.88rem;
+  --font-size-xl: 1.25rem;
+  --font-size-xs: 0.75rem;
+  --font-size-base: 1rem;
+  --font-size-mid: 1.06rem;
+  --font-size-mini: 0.94rem;
+  --font-size-2xl: 1.31rem;
+  --font-size-16xl: 2.19rem;
+  --font-size-6xl: 1.56rem;
+  --font-size-26xl: 2.81rem;
+
+  /* Colors */
+  --color-lemonchiffon: #fffdd0;
+  --color-white: #fff;
+  --color-lavender: #dedef1;
+  --color-black: #000;
+  --color-royalblue: #205cd4;
+  --color-dimgray: #696a6a;
+  --color-gray-100: #1c1c1c;
+  --color-darkslategray: #022a1c;
+  --color-mediumspringgreen: #04da8d;
+  --color-whitesmoke: #eeeded;
+
+  /* Paddings */
+  --padding-xl: 1.25rem;
+
+  /* Border radiuses */
+  --br-3xs: 10px;
+  --br-6xs: 7px;
+  --br-mini: 15px;
+  --br-6xl: 25px;
+  --br-8xs: 5px;
+}
